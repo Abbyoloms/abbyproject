@@ -1,0 +1,22 @@
+
+def names(girlsonly):
+   for x in girlsonly:
+      print(x)
+
+girlsonly = ["Eri", "Sara", "Sandra", "Abby", "Kemi"]
+
+names(girlsonly)
+
+
+
+
+
+
+
+def thelist(shopping):
+   for x in shopping:
+      print(x)
+
+shopping = ["clothes", "bags", "fruits", "shoes", "books"]
+
+thelist(shopping)

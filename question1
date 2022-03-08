@@ -1,0 +1,13 @@
+def kids_age(fchild, lchild):
+   sum = (fchild + lchild)
+   multi = (fchild * lchild)
+   print(sum)
+   print(multi)
+
+kids_age(9, 5)
+
+
+
+
+
+A function using positional parameter that can take two numbers and compute the addition, multiplication and display the answers.       

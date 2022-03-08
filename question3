@@ -1,0 +1,8 @@
+
+def shopping_items(fruits):
+   print(len(fruits))
+
+fruits = ["apple", "pear", "orange", "cherry", "banana", "tangerine"]
+
+shopping_items(fruits)
+
